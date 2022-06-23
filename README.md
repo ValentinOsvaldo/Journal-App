@@ -5,7 +5,7 @@
 git clone https://github.com/ValentinOsvaldo/journal-app.git
 ```
 
-> ### Nota
+> **Nota:**
 > Este proyecto utiliza [yarn](https://yarnpkg.com/) como manejador de paquetes
 
 ```bash
